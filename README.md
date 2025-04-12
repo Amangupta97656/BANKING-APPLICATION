@@ -25,7 +25,7 @@ The **Simple Banking System** is a Java-based console application that allows us
    Clone the repository or download the project folder to your local machine.
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Amangupta97656/BANKING-APPLICATION.git>
    ```
 
 2. **Open the Project in an IDE**:  
